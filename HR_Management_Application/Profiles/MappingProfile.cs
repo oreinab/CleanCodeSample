@@ -5,8 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using AutoMapper;
 using HR_Management_Application.DTOs;
-using HR_Management_Application.DTOs.Common;
+using HR_Management_Application.DTOs.LeaveAllocation;
 using HR_Management_Application.DTOs.LeaveRequest;
+using HR_Management_Application.DTOs.LeaveType;
 using HR_Management_Domain;
 
 namespace HR_Management_Application.Profiles

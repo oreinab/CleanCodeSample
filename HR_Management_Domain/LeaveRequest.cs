@@ -15,9 +15,9 @@ namespace HR_Management_Domain
         public DateTime EndDate { get; set; }
         public DateTime DateRequested { get; set; }
         public string RequestComments { get; set; }
-        public DateTime DateActioned { get; set; }
+        public DateTime? DateActioned { get; set; }
         public bool? Approved { get; set; }
-        public bool? Cancled { get; set; }
+        public bool? Canceled { get; set; }
     }
 
 
