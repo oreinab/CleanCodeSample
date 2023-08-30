@@ -10,6 +10,6 @@ namespace HR_Management_Application.Features.LeaveTypes.Requests.Command
 {
     public class CreateLeaveTypeCommand : IRequest<int>
     {
-        public LeaveTypeDto LeaveTypeDto { get; set; }
+        public CreateLeaveTypeDto LeaveTypeDto { get; set; }
     }
 }

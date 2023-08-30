@@ -1,0 +1,12 @@
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\HR_Management_Domain\bin\Debug\net6.0\HR_Management_Domain.deps.json
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\HR_Management_Domain\bin\Debug\net6.0\HR_Management_Domain.dll
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\HR_Management_Domain\bin\Debug\net6.0\HR_Management_Domain.pdb
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\HR_Management_Domain\obj\Debug\net6.0\HR_Management_Domain.csproj.AssemblyReference.cache
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\HR_Management_Domain\obj\Debug\net6.0\HR_Management_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\HR_Management_Domain\obj\Debug\net6.0\HR_Management_Domain.AssemblyInfoInputs.cache
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\HR_Management_Domain\obj\Debug\net6.0\HR_Management_Domain.AssemblyInfo.cs
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\HR_Management_Domain\obj\Debug\net6.0\HR_Management_Domain.csproj.CoreCompileInputs.cache
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\HR_Management_Domain\obj\Debug\net6.0\HR_Management_Domain.dll
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\HR_Management_Domain\obj\Debug\net6.0\refint\HR_Management_Domain.dll
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\HR_Management_Domain\obj\Debug\net6.0\HR_Management_Domain.pdb
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\HR_Management_Domain\obj\Debug\net6.0\ref\HR_Management_Domain.dll
