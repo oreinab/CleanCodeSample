@@ -1,0 +1,15 @@
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.exe
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.deps.json
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.runtimeconfig.json
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.dll
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.pdb
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfo.cs
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.dll
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\obj\Debug\net6.0\refint\ExtensionMethod.dll
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.pdb
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.genruntimeconfig.cache
+C:\Users\o.ghodrati\source\repos\CleanCodeSample\ExtensionMethod\obj\Debug\net6.0\ref\ExtensionMethod.dll

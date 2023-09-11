@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "EKCXZ6Bj8h6GbUkZm5SW/O0olMfDLFf+YVgjpnlasQH1njcYYw+jBi+9iAc2wqdLJiDKgYrJmBp49PuV0aN/FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\o.ghodrati\\source\\repos\\CleanCodeSample\\ExtensionMethod\\ExtensionMethod.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://api.nuget.org/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://172.30.52.11:8081/repository/nuget-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
